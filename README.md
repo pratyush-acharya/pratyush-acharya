@@ -31,4 +31,4 @@ Across 17 transformers, contextual concept directions *avoid* the high-variance 
 #### 🛠️ Day job
 Data Scientist at **SecurityPal AI**, building retrieval, LLM-evaluation and agentic systems.
 
-**Tools:** PyTorch · Hugging Face Transformers / TRL · SAELens-style SAE tooling · scikit-learn · DSPy · SQL / BigQuery · Docker
+**Tools:** PyTorch · Hugging Face Transformers / TRL · SentenceTransformers · scikit-learn · DSPy · LangChain · SQL / BigQuery · PySpark · Docker
