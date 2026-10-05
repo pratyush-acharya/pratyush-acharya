@@ -1,6 +1,6 @@
 ### Hi, I'm Pratyush 👋
 
-I'm an NLP researcher and data scientist in Kathmandu, Nepal. I study **how large language models represent concepts internally**, and how that understanding can make **post-training** more targeted, so that models end up better aligned and more capable.
+I'm an AI researcher and data scientist in Kathmandu, Nepal. I study **how large language models represent concepts internally**, and how that understanding can make **post-training** more targeted, so that models end up better aligned and more capable.
 
 🎓 **Applying to CS PhD programs for Fall 2027.** If our interests overlap, I'd love to hear from you.
 
